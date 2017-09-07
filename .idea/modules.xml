@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-Trello.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-Trello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-Trello_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-Trello_main.iml" group="selenium-Trello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-Trello_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-Trello_test.iml" group="selenium-Trello" />
     </modules>
   </component>
 </project>

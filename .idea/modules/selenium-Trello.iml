@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
+<module external.linked.project.id="selenium-Trello" external.linked.project.path="$MODULE_DIR$/../../selenium-Trello" external.root.project.path="$MODULE_DIR$/../../selenium-Trello" external.system.id="GRADLE" external.system.module.group="trelloTest" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../selenium-Trello" />
+    <content url="file://$MODULE_DIR$/../../selenium-Trello">
+      <excludeFolder url="file://$MODULE_DIR$/../../selenium-Trello/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../selenium-Trello/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../selenium-Trello/out" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
